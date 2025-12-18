@@ -70,3 +70,6 @@ The prototype video demonstrates how Zero Glass would work conceptually.
 
 ▶️ Watch the prototype video here:
 https://youtu.be/o6TMTimTHFM?si=gs9dP_aGADB_Eg35
+
+## Collaboration
+We are open to collaboration, mentorship, and discussion with AI, hardware, and wearable technology companies.
