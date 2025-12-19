@@ -1,5 +1,7 @@
 Zero Glass – AI Smart Glasses Concept
 
+Zero Glass aims to explore how AI-powered wearable technology can enhance human interaction with the real world in a natural and accessible way.
+
 Overview
 
 Zero Glass is a concept project for AI-powered smart glasses designed to help people interact with the world more easily and intuitively. This repository is created to present the idea, MVP, pitch deck, and prototype video in a simple and clear way, especially for potential partners such as AI companies, researchers, and technology organizations.
