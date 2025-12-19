@@ -73,3 +73,12 @@ https://youtu.be/o6TMTimTHFM?si=gs9dP_aGADB_Eg35
 
 ## Collaboration
 We are open to collaboration, mentorship, and discussion with AI, hardware, and wearable technology companies.
+
+## Contact
+
+For collaboration, partnership, or further discussion, please contact:
+
+📧 Email: dirajaalam6@gmail.com  
+📌 Project: Zero Glass – AI Smart Glasses Concept
+
+We are open to feedback, mentorship, and collaboration with AI and technology companies.
