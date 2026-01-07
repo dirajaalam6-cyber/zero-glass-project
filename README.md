@@ -90,6 +90,9 @@ The prototype video demonstrates how Zero Glass would work conceptually.
 ▶️ Watch the prototype video here:
 https://youtu.be/o6TMTimTHFM?si=gs9dP_aGADB_Eg35
 
+## 📖 Vision & Article
+Read the full vision of Zero Glass on Medium:
+👉 https:https://medium.com/@dirajaalam
 
 
 ## Collaboration
