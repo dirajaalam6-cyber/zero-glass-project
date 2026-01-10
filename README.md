@@ -44,6 +44,34 @@ Lightweight and user-friendly design
 
 
 
+# Zero Glass
+
+Zero Glass is a concept project exploring how AI can guide humans
+from zero to growth through contextual guidance, not automation.
+
+## Vision
+AI should not replace humans.
+It should help humans learn, decide, and grow.
+
+## Core Problems
+- Modern AI focuses on efficiency, not human development
+- Users become dependent, not empowered
+- No long-term guidance system exists
+
+## Concept Solution
+Zero Glass introduces:
+- Guidance-based AI
+- Step-by-step human growth assistance
+- Context-aware decision support
+
+## Articles
+- Zero Glass: AI Smart Glasses That Guide People From Zero to Success
+  https://medium.com/@dirajaalam6
+- The Problem with Modern AI: It Automates Tasks, but Not Human Growth
+  https://medium.com/@dirajaalam6
+
+
+
 MVP
 
 The MVP focuses on:
